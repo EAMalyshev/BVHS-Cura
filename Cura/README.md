@@ -76,4 +76,4 @@ After installing the Moonraker plugin and changing your preferences, close out o
 <br><br>
 This folder is used to manage everything in Cura. We are going to add in a definition for our BVHS printers.
 <br><br>
-Download the "creality_ender3pro.def.json" file from this github and place it into the "definitions" folder.
+Download the "<a href="https://github.com/EAMalyshev/BVHS-Cura/blob/main/Cura/creality_ender3pro.def.json">creality_ender3pro.def.json</a>" file from this github and place it into the "definitions" folder.
