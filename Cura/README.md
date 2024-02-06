@@ -84,3 +84,14 @@ Place the file you just downloaded into the "definitions" folder.
 <br><br>
 <img width="487" alt="Screen Shot 2024-02-06 at 12 37 47 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/b1a0857c-970d-456d-978d-95034a9adbe7">
 <br><br>
+After you place the file in the definitions folder, you can close this folder out and once again load Cura
+<br><br>
+<img width="505" alt="Screen Shot 2024-02-06 at 12 50 07 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/64470c1a-7bfb-4811-89d6-422df24cb9da">
+<br><br>
+Press "Non Ultimaker printer".
+<br><br>
+<img width="602" alt="Screen Shot 2024-02-06 at 11 20 58 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/bbf638be-cd29-403c-a197-62ee2d38a2d9">
+<br><br>
+On the following menu, press the dropdown menu labeled "Add a non-Networked printer".
+<img width="602" alt="Screen Shot 2024-02-06 at 11 35 01 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/56a47ae1-44e0-4bb7-84f8-c2c21426a3b6">
+<br><br>
