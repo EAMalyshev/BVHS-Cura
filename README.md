@@ -1,3 +1,5 @@
 # BVHS-Ender-Printers
 This project was made by Eddie Malyshev in hopes to make the 3D printers more easily accessible and understood by students.
-![image](https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/9f1b42aa-696b-4a6a-b20c-a4e7584bf06f)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Klipper-logo_svg.svg/512px-Klipper-logo_svg.svg.png" />
+</p>
