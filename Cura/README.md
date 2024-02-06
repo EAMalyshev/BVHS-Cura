@@ -53,8 +53,6 @@ Press "Next" (We did select a random printer, but we will delete this later. Thi
 Lets start by installing the Moonraker plugin, which allows us to send files wirelessly. Press "MarketPlace" on the top right.
 <img width="1440" alt="Screen Shot 2024-02-06 at 11 43 23 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/5f64d522-6d60-4437-b45a-74fce5a60350">
 <br><br>
-Then search for "moonraker" in the search bar. This will pull up the moonraker plugin. Press install, then close out the window.
-<br><br>
 Then search for "moonraker" in the search bar. This will pull up the moonraker plugin. Press install, agree the plugin license by pressing "Accept", then close out the window.
 <br><br>omatic
 <img width="779" alt="Screen Shot 2024-02-06 at 11 49 40 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/2e6b08f6-9c15-4d63-aeb0-5b2f16d6ae14">
