@@ -33,4 +33,4 @@ Cura will now stay on your desktop and you can access it anytime!
 <br><br>
 This step is important. RIGHT-CLICK the application, and press "Open", then press "Open" again. This will open Cura. You only have to do this once; this is because Apple doesnt "Approve" a lot of apps outside of the App Store, and as a result, some apps require you to manually confirm that this app is safe the first time you open it.
 <br><br><br><br>
-# Cura Setup
+#### Cura Setup
