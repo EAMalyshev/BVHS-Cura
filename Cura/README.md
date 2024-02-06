@@ -97,4 +97,7 @@ Then once again, select "Add a non-networked printer". We will this time scroll 
 <br><br>
 <img width="774" alt="Screen Shot 2024-02-06 at 12 56 53 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/d8089ee5-ca40-47c9-8c83-5e5174878b0a">
 <br><br>
-Then add "Add", then skip the next menu by pressing "Next", 
+Then add "Add", then skip the next menu by pressing "Next", which will bring back you back to a screen with all the printers. Now, with the printer you temporarily added at the start, press the menu icon, then "Remove".
+<br><br>
+<img width="774" alt="Screen Shot 2024-02-06 at 2 56 54 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/8bc74375-0055-43fe-8a5b-f52d26a1b4c4">
+<br><br>
