@@ -88,10 +88,13 @@ After you place the file in the definitions folder, you can close this folder ou
 <br><br>
 <img width="505" alt="Screen Shot 2024-02-06 at 12 50 07 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/64470c1a-7bfb-4811-89d6-422df24cb9da">
 <br><br>
-Press "Non Ultimaker printer".
+
+Lets add the new printer by pressing "Settings", "Printer", selecting "Add Printer...". This will bring us to a familiar screen. Press "Non Ultimaker printer".
 <br><br>
-<img width="602" alt="Screen Shot 2024-02-06 at 11 20 58 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/bbf638be-cd29-403c-a197-62ee2d38a2d9">
+<img width="776" alt="Screen Shot 2024-02-06 at 12 54 17 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/57d15595-6157-47bb-ae9d-db75795b209f">
 <br><br>
-On the following menu, press the dropdown menu labeled "Add a non-Networked printer".
-<img width="602" alt="Screen Shot 2024-02-06 at 11 35 01 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/56a47ae1-44e0-4bb7-84f8-c2c21426a3b6">
+Then once again, select "Add a non-networked printer". We will this time scroll all the way down to the bottom and select "BVH Printers" and "Ender 3 Pro".
 <br><br>
+<img width="774" alt="Screen Shot 2024-02-06 at 12 56 53 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/d8089ee5-ca40-47c9-8c83-5e5174878b0a">
+<br><br>
+Then add "Add", then skip the next menu by pressing "Next", 
