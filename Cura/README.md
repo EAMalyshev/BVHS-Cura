@@ -51,16 +51,19 @@ Press "Next" (We did select a random printer, but we will delete this later. Thi
 
 # Configuration and Importing Profiles
 Lets start by installing the Moonraker plugin, which allows us to send files wirelessly. Press "MarketPlace" on the top right.
+<br><br>
 <img width="1440" alt="Screen Shot 2024-02-06 at 11 43 23 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/5f64d522-6d60-4437-b45a-74fce5a60350">
 <br><br>
 Then search for "moonraker" in the search bar. This will pull up the moonraker plugin. Press install, agree the plugin license by pressing "Accept", then close out the window.
-<br><br>omatic
+<br><br>
 <img width="779" alt="Screen Shot 2024-02-06 at 11 49 40 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/2e6b08f6-9c15-4d63-aeb0-5b2f16d6ae14">
 <br><br>
 This part is optional, but you can configure your preferences, theme, etc. by going to the "Preferenecs" button on the top left, then pressing "Configure Cura...".
+<br><br>
 <img width="1440" alt="Screen Shot 2024-02-06 at 11 54 51 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/b6373f50-c927-4a4c-9bee-be0742e703e7">
 <br><br>
 This will pull up the following menu. You dont have to touch any of them, but I personally choose to change Currency to "$", Theme to "Ultimaker Dark", Turn on "Slice automatically", Turn off "Scale extremely small models", and Turn off "Send (anonymous) print information".
+<br><br>
 <img width="781" alt="Screen Shot 2024-02-06 at 11 59 41 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/070b4667-9d8d-4466-b872-72d5e166746c">
 <br><br><br><br>
 Before we close out cura, lets open the configuration folder by pressing "Help", then "Show Configuration Folder". This will open a folder in your finder. We will access this layer
