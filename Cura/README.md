@@ -66,7 +66,9 @@ This will pull up the following menu. You dont have to touch any of them, but I 
 <br><br>
 <img width="781" alt="Screen Shot 2024-02-06 at 11 59 41 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/070b4667-9d8d-4466-b872-72d5e166746c">
 <br><br><br><br>
-Before we close out cura, lets open the configuration folder by pressing "Help", then "Show Configuration Folder". This will open a folder in your finder. We will access this layer
+Before we close out cura, lets open the configuration folder by pressing "Help", then "Show Configuration Folder". This will open a folder in your finder. We will access this later.
+<br><br>
+<img width="1440" alt="Screen Shot 2024-02-06 at 12 10 35 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/63b9ad63-d9d3-4fdb-9e8d-fed70864358c">
 <br><br>
 After installing the Moonraker plugin and changing your preferences, close out of Cura. This will apply all the changes youve made. Now we can pull up the folder we opened earlier.
 <br><br>
