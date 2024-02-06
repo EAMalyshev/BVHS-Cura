@@ -35,3 +35,7 @@ This step is important. RIGHT-CLICK the application, and press "Open", then pres
 <br><br><br><br>
 
 # Cura Setup
+Welcome to Cura!
+<br>
+Lets start configuring everything. Press "Get Started", agree to the Terms of Service by pressing "Agree", skip the short info slide by pressing "Next", and skip making a Ultimaker account by pressing "Skip". This will bring you to the printer selection screen. Press
+<img width="1440" alt="Screen Shot 2024-02-06 at 11 15 34 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/293182a3-c470-4ce1-b9cf-d03794aecb3c">
