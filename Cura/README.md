@@ -101,3 +101,16 @@ Then add "Add", then skip the next menu by pressing "Next", which will bring bac
 <br><br>
 <img width="774" alt="Screen Shot 2024-02-06 at 2 56 54 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/8bc74375-0055-43fe-8a5b-f52d26a1b4c4">
 <br><br>
+Your printer menu should only have the Ender 3 Pro. Select Ender 3 Pro, and press "Connect Moonraker"
+<br><br>
+<img width="781" alt="Screen Shot 2024-02-06 at 3 07 53 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/271166ff-0f18-4b6d-b4ee-7a8a6061eb8a">
+<br><br>
+This will pull up another Menu. In the "Address(URL)", type in "http://192.168.4.1" (This is the printers IP).
+<br><br>
+<img width="775" alt="Screen Shot 2024-02-06 at 3 13 19 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/0289c6d3-4144-4655-8bf8-4d96a6577b62">
+<br><br>
+Selecet the "Upload" tab at the top of the menu, and in tab, select "UFP with Thumbnail". You can press "Create" which will bring you back to the previous screen.
+<br><br>
+<img width="777" alt="Screen Shot 2024-02-06 at 3 14 43 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/250e5047-20ca-43aa-b4c1-e4c841f5874a">
+<br><br>
+With that 
