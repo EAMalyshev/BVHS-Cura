@@ -65,7 +65,7 @@ This part is optional, but you can configure your preferences, theme, etc. by go
 This will pull up the following menu. You dont have to touch any of them, but I personally choose to change Currency to "$", Theme to "Ultimaker Dark", Turn on "Slice automatically", Turn off "Scale extremely small models", and Turn off "Send (anonymous) print information". After you finish, close out the window.
 <br><br>
 <img width="781" alt="Screen Shot 2024-02-06 at 11 59 41 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/070b4667-9d8d-4466-b872-72d5e166746c">
-<br><br><br><br>
+<br><br>
 Before we close out cura, lets open the configuration folder by pressing "Help", then "Show Configuration Folder". This will open a folder in your finder. We will access this later.
 <br><br>
 <img width="1440" alt="Screen Shot 2024-02-06 at 12 10 35 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/63b9ad63-d9d3-4fdb-9e8d-fed70864358c">
