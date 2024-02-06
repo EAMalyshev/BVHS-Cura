@@ -73,6 +73,7 @@ Before we close out cura, lets open the configuration folder by pressing "Help",
 After installing the Moonraker plugin and changing your preferences, close out of Cura. This will apply all the changes youve made. Now we can pull up the folder we opened earlier.
 <br><br>
 <img width="916" alt="Screen Shot 2024-02-06 at 12 13 07 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/8a56c457-eb6f-4cbc-b3dd-2cff18125889">
-This folder is used to manage everything in Cura. What we are going to do is put in a definition for the printer.
+<br><br>
+This folder is used to manage everything in Cura. We are going to add in a definition for our BVHS printers.
 <br><br>
 Download the "creality_ender3pro.def.json" file from this github and place it into the "definitions" folder.
