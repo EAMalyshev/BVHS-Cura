@@ -5,4 +5,4 @@ I use Cura to slice all the files for this printer and setting up the profiles a
 </p>
 
 
-Start by downloading the latest version of Ultimaker Cura <a href="https://ultimaker.com/software/ultimaker-cura/">Ultimaker Cura</a>
+Start by downloading the latest version of Ultimaker Cura <a href="https://ultimaker.com/software/ultimaker-cura/">Ultimaker Cura</a> to your computers desktop.
