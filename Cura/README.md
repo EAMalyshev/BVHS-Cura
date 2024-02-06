@@ -80,7 +80,7 @@ Download the "<a href="https://github.com/EAMalyshev/BVHS-Cura/blob/main/Cura/cr
 <br><br>
 <img width="1440" alt="Screen Shot 2024-02-06 at 12 35 59 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/974d5919-815d-41bf-bdd4-7a26d62326ac">
 <br><br>
-Place it into the "definitions" folder.
+Place the file you just downloaded into the "definitions" folder.
 <br><br>
 <img width="487" alt="Screen Shot 2024-02-06 at 12 37 47 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/b1a0857c-970d-456d-978d-95034a9adbe7">
 <br><br>
