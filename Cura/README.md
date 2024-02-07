@@ -176,7 +176,7 @@ In the "Network Name:" section (also known as the SSID), enter "printer". For th
 <br><br>
 <img width="439" alt="Screen Shot 2024-02-07 at 8 03 07 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/143654a8-05d7-4483-a13e-940a822ee36e">
 <br><br>
-You can now press "Upload to Ender 3 Pro", rename the file to your desired name if needed, and select "Start Print Job". If you want to access it via the web interface, read about this under "Klipper" but its not recommended and is more difficult.
+You can now press "Upload to Ender 3 Pro", rename the file to your desired name if needed, and select "Start Print Job". If you want to access it via the web interface, read about this under the <a href="https://github.com/EAMalyshev/BVHS-Cura/tree/main/Klipper">Klipper Folder</a> but its not recommended and is more difficult.
 <br><br>
 <img width="1440" alt="Screen Shot 2024-02-07 at 8 06 06 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/dbac35f8-d204-45b4-b8f7-a8c8440a631e">
 <br><br>
