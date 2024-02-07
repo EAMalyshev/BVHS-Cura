@@ -1,4 +1,5 @@
 # Downloading Cura
+3-5 minutes
 I use Cura to slice all the files for this printer and setting up the profiles and materials for this printer is very easy.
 <p align="center">
   <img src="https://img.utdstc.com/icon/97a/a5e/97aa5e531fee9e0b18d7028609d091062db6e392c49e45859ba0aeeeb118eae4:200" />
@@ -35,6 +36,7 @@ This step is important. RIGHT-CLICK the application, and press "Open", then pres
 <br><br><br><br>
 
 # Cura Setup
+3-5 minutes
 Welcome to Cura!
 <br><br>
 <img width="1440" alt="Screen Shot 2024-02-06 at 11 15 34 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/293182a3-c470-4ce1-b9cf-d03794aecb3c">
@@ -50,6 +52,7 @@ Press "Next" (We did select a random printer, but we will delete this later. Thi
 <br><br><br><br>
 
 # Configuration and Importing Profiles
+7-10 minutes
 Lets start by installing the Moonraker plugin, which allows us to send files wirelessly. Press "MarketPlace" on the top right.
 <br><br>
 <img width="1440" alt="Screen Shot 2024-02-06 at 11 43 23 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/5f64d522-6d60-4437-b45a-74fce5a60350">
@@ -142,6 +145,7 @@ Select the profile, then press "Speed".
 <br><br><br><br>
 
 # Slicing Your First File!
+1-3 minutes
 Phew, were done with the configuration. Now lets slice a file for the printer to use.
 <br><br>
 Download a 3D model from any site like <a href="https://www.printables.com/">Printables</a>, or <a href="https://www.thingiverse.com/">Thingiverse</a>. You should download a .stl, .obj, .3mf, or any other object mesh file. Drag and dop this file to Cura.
