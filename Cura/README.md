@@ -144,7 +144,32 @@ Select the profile, then press "Speed".
 # Slicing Your First File!
 Phew, were done with the configuration. Now lets slice a file for the printer to use.
 <br><br>
-Download a 3D model from any site like <a href="https://www.printables.com/">Printables</a>, or <a href="https://www.thingiverse.com/">Thingiverse</a>. You should download a .stl, .obj, .3mf, or any other object mesh file.
+Download a 3D model from any site like <a href="https://www.printables.com/">Printables</a>, or <a href="https://www.thingiverse.com/">Thingiverse</a>. You should download a .stl, .obj, .3mf, or any other object mesh file. Drag and dop this file to Cura.
 <br><br>
 <img width="1440" alt="Screen Shot 2024-02-07 at 7 41 49 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/ff0fa35b-d9e3-4a7a-bb5f-38396fefe2cf">
 <br><br>
+If you need supports for the model, go to the "Support" tab under the slicing settings and turn on "Generate Support". You can also choose between "Normal" supports which are like scaffolding, or "Tree" supports which are more organic and try to make it as easy as possible to remove supports but can take more material and take longer to print.
+<br><br>
+<img width="1440" alt="Screen Shot 2024-02-07 at 7 48 54 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/c7e4836a-0a4b-438e-bec6-6f8720b10ed3">
+<br><br>
+Now press "Slice" if you didnt select "Automatically Slice" under preferences. You can check how your print will look under the "Preview" tab.
+<br><br>
+<img width="1440" alt="Screen Shot 2024-02-07 at 7 54 12 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/ec070f2e-f32e-45e6-82e9-3dc48be0893f">
+<br><br>
+If everything seems right, Select the arrow next to "Save To Disk" and select "Upload to Ender 3 Pro".
+<br><br>
+<img width="1440" alt="Screen Shot 2024-02-07 at 7 55 20 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/45cbde01-26c5-44db-a090-efd604a924e9">
+<br><br>
+Before we upload it, go your wifi, select "Other Networks", and press "Other..."
+<br><br>
+<img width="1440" alt="Screen Shot 2024-02-07 at 7 58 29 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/c8b441bb-2a26-46e5-8c02-045aac57e210">
+<br><br>
+In the "Network Name:" section (also known as the SSID), enter "printer". For the "Password: ", enter "password". Then press "Join". This will connect you to the printers access point. You will have to connect to the Blue Valley network again to be able to access the internet.
+<br><br>
+<img width="439" alt="Screen Shot 2024-02-07 at 8 03 07 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/143654a8-05d7-4483-a13e-940a822ee36e">
+<br><br>
+You can now press "Upload to Ender 3 Pro", rename the file to your desired name if needed, and select "Start Print Job". If you want to access it via the web interface, read about this under "Klipper" but its not recommended and is more difficult.
+<br><br>
+<img width="1440" alt="Screen Shot 2024-02-07 at 8 06 06 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/dbac35f8-d204-45b4-b8f7-a8c8440a631e">
+<br><br>
+Youre done!! Your print will now start.
