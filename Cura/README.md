@@ -162,7 +162,7 @@ Select the profile, then press "Speed".
 <br>
 Phew, were done with the configuration. Now lets slice a file for the printer to use.
 <br><br>
-Download a 3D model from any site like <a href="https://www.printables.com/">Printables</a>, or <a href="https://www.thingiverse.com/">Thingiverse</a>. You should download a .stl, .obj, .3mf, or any other object mesh file. Drag and dop this file to Cura.
+Download a 3D model from any site like <a href="https://www.printables.com/">Printables</a>, or <a href="https://www.thingiverse.com/">Thingiverse</a>. You should download a .stl, .obj, .3mf, or any other object mesh file. Drag and dop this file to Cura. You can slice a <a href="https://github.com/EAMalyshev/BVHS-Cura/blob/main/Cura/3DBenchy.stl">3D Benchy</a> if you dont know what to print :) 
 <br><br>
 <img width="1440" alt="Screen Shot 2024-02-07 at 7 41 49 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/ff0fa35b-d9e3-4a7a-bb5f-38396fefe2cf">
 <br><br>
