@@ -119,3 +119,15 @@ Now, lets import the material and profile. Download <a href="https://github.com/
 Press "Import" and select the file you just downloaded. Now if you scroll to the bottom, you should find a section called "⋆ School E3P" with "Speed PLA" Under it. If everything is correct. you can close out of this window.
 <br><br>
 Now when you want to print with PLA, select the material dropdown menu and under the filament go down to Speed PLA
+<br><br>
+<img width="1440" alt="Screen Shot 2024-02-07 at 7 21 06 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/ff618486-f8ce-4f67-8a38-6cc207a634f8">
+<br><br>
+Lets lastly setup the profile. Download <a href="https://github.com/EAMalyshev/BVHS-Cura/blob/main/Cura/BVHS-Speed.curaprofile">BVHS-Speed.curaprofile</a>. Then back in Cura, go once again to "Preferences", then "Configure Cura..."
+<br><br>
+<img width="1440" alt="Screen Shot 2024-02-07 at 7 23 42 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/290e243c-12a0-4da3-b34f-baba04154be8">
+<br><br>
+This time, instead of going to materials, we are going to go to "Profiles"
+<br><br>
+<img width="770" alt="Screen Shot 2024-02-07 at 7 24 58 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/659d6428-e098-4e2e-9b6a-49c6d918fa5f">
+<br><br>
+Press "Import", and select the file you just downloaded. It should now show up under "Custom Profiles" as "Speed PLA". You can now close out of this window.
