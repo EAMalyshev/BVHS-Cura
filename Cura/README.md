@@ -1,6 +1,9 @@
 # Cura
 Lets get this started!
 <br>
+<br>
+PLEASE ASK A LIBRARIAN FOR PERMISSIONS BEFORE DOING THIS!!!
+<br>
 Setup for the first time is difficult for some and will take roughly 30 minutes (for me it took 5 minutes, but Ive done this many times). <br>
 This guide may seem long, but it is just descriptive to help people who may not be as knowledgeable about this.
 <br>
