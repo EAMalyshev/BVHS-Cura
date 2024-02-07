@@ -131,3 +131,20 @@ This time, instead of going to materials, we are going to go to "Profiles"
 <img width="770" alt="Screen Shot 2024-02-07 at 7 24 58 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/659d6428-e098-4e2e-9b6a-49c6d918fa5f">
 <br><br>
 Press "Import", and select the file you just downloaded. It should now show up under "Custom Profiles" as "Speed PLA". You can now close out of this window.
+<br>
+Now, you have to select the quality tab at the top right, and press "Show Custom".
+<br><br>
+<img width="1440" alt="Screen Shot 2024-02-07 at 7 31 24 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/87529341-6689-4b0b-ae88-fd4231634127">
+<br><br>
+Select the profile, then press "Speed".
+<br><br>
+<img width="1440" alt="Screen Shot 2024-02-07 at 7 35 17 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/ba26ef6b-d7de-4720-a93c-25622480653a">
+<br><br><br><br>
+
+# Slicing Your First File!
+Phew, were done with the configuration. Now lets slice a file for the printer to use.
+<br><br>
+Download a 3D model from any site like <a href="https://www.printables.com/">Printables</a>, or <a href="https://www.thingiverse.com/">Thingiverse</a>. You should download a .stl, .obj, .3mf, or any other object mesh file.
+<br><br>
+<img width="1440" alt="Screen Shot 2024-02-07 at 7 41 49 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/ff0fa35b-d9e3-4a7a-bb5f-38396fefe2cf">
+<br><br>
