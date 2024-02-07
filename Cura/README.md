@@ -1,8 +1,10 @@
 # Cura
 Lets get this started!
 <br>
-Setup for the first time is usually difficult and will take roughly 30 minutes (for me it took 5 minutes, but Ive done this many times). <br>
+Setup for the first time is difficult for some and will take roughly 30 minutes (for me it took 5 minutes, but Ive done this many times). <br>
 This guide may seem long, but it is just descriptive to help people who may not be as knowledgeable about this.
+<br>
+Once you are done, sending files to the printer takes less than 2 minutes
 <br><br><br><br>
 
 # Downloading Cura
