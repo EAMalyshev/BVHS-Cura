@@ -57,6 +57,7 @@ Lets start configuring everything. Press "Get Started", agree to the Terms of Se
 <img width="602" alt="Screen Shot 2024-02-06 at 11 20 58 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/bbf638be-cd29-403c-a197-62ee2d38a2d9">
 <br><br>
 On the following menu, press the dropdown menu labeled "Add a non-Networked printer".
+<br><br>
 <img width="602" alt="Screen Shot 2024-02-06 at 11 35 01 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/56a47ae1-44e0-4bb7-84f8-c2c21426a3b6">
 <br><br>
 Press "Next" (We did select a random printer, but we will delete this later. This is only temporary), then skip the info screen by pressing "Skip", then press "Finish".
