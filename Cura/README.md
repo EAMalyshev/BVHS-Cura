@@ -113,4 +113,6 @@ Selecet the "Upload" tab at the top of the menu, and in tab, select "UFP with Th
 <br><br>
 <img width="777" alt="Screen Shot 2024-02-06 at 3 14 43 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/250e5047-20ca-43aa-b4c1-e4c841f5874a">
 <br><br>
-With that 
+Now, lets import the material and profile. Download <a href="https://github.com/EAMalyshev/BVHS-Cura/blob/main/Cura/BVHS-Speed.xml.fdm_material">BVHS-Speed.xml.fdm_material</a> Go to the "Materials" tab on the side.
+<img width="778" alt="Screen Shot 2024-02-06 at 3 34 23 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/8b68496c-1217-4018-8c3e-04ab05d83edf">
+
