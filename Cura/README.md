@@ -8,6 +8,8 @@ Setup for the first time is difficult for some and will take roughly 30 minutes 
 This guide may seem long, but it is just descriptive to help people who may not be as knowledgeable about this.
 <br>
 Once you are done, sending files to the printer takes less than 2 minutes
+<br><br>
+If you have trouble during setup, go to <a href="https://github.com/EAMalyshev/BVHS-Cura/blob/main/Cura/TroubleShooting.md">TroubleShooting.md</a> to see what you can try, or experiment yourself! 🧪
 <br><br><br><br>
 
 # Downloading Cura
