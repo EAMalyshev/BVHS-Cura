@@ -1,7 +1,6 @@
 # BVHS-Ender-Printers
-This small project was made by Eddie Malyshev in hopes to make the 3D printers more easily accessible and understood by students. 
-<br>
 <sub><sub>The Documentation was last updated on 03/28/2023</sub></sub>
+This small project was made by Eddie Malyshev in hopes to make the 3D printers more easily accessible and understood by students. 
 <br><br>
 Go To the <a href="https://github.com/EAMalyshev/BVHS-Cura/tree/main/Cura">Cura</a> folder to get started!
 <p align="center">
