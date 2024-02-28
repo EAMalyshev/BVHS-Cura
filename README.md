@@ -1,5 +1,5 @@
 # BVHS-Ender-Printers
-<sub><sub>The Documentation was last updated on 03/28/2023</sub></sub>
+<sup><sup>The Documentation was last updated on 03/28/2023</sup></sup>
 <br><br>
 This small project was made by Eddie Malyshev in hopes to make the 3D printers more easily accessible and understood by students. 
 <br><br>
