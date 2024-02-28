@@ -116,7 +116,7 @@ Then once again, select "Add a non-networked printer". We will this time scroll 
 <br><br>
 <img width="774" alt="Screen Shot 2024-02-06 at 12 56 53 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/d8089ee5-ca40-47c9-8c83-5e5174878b0a">
 <br><br>
-Then add "Add", then skip the next menu by pressing "Next", which will bring back you back to a screen with all the printers. Now, with the printer you temporarily added at the start, press the menu icon, then "Remove".
+Then press "Add", then skip the next menu by pressing "Next", which will bring back you back to a screen with all the printers. Now, with the printer you temporarily added at the start, press the menu icon, then "Remove".
 <br><br>
 <img width="774" alt="Screen Shot 2024-02-06 at 2 56 54 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/8bc74375-0055-43fe-8a5b-f52d26a1b4c4">
 <br><br>
@@ -124,14 +124,40 @@ Your printer menu should only have the Ender 3 Pro. Select Ender 3 Pro, and pres
 <br><br>
 <img width="781" alt="Screen Shot 2024-02-06 at 3 07 53 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/271166ff-0f18-4b6d-b4ee-7a8a6061eb8a">
 <br><br>
-This will pull up another Menu. In the "Address(URL)", type in "http://192.168.4.1" (This is the printers IP).
+This will pull up another Menu. In the "Address(URL)", type in "http://192.168.4.1:7125/" (This is the printers IP and port).
 <br><br>
-<img width="775" alt="Screen Shot 2024-02-06 at 3 13 19 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/0289c6d3-4144-4655-8bf8-4d96a6577b62">
+<img width="774" alt="Screenshot 2024-02-28 at 11 14 55 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/91588c85-29c5-4928-830d-3a54788754f9">
 <br><br>
-Selecet the "Upload" tab at the top of the menu, and in tab, select "UFP with Thumbnail". You can press "Create" which will bring you back to the previous screen.
+Select the "Upload" tab at the top of the menu, and in tab, select "UFP with Thumbnail". You can press "Create" which will bring you back to the previous screen.
 <br><br>
 <img width="777" alt="Screen Shot 2024-02-06 at 3 14 43 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/250e5047-20ca-43aa-b4c1-e4c841f5874a">
 <br><br>
+
+Lets now add the second printer by pressing "Settings", "Printer", selecting "Add Printer..." and press "Non Ultimaker printer".
+<br><br>
+<img width="776" alt="Screen Shot 2024-02-06 at 12 54 17 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/57d15595-6157-47bb-ae9d-db75795b209f">
+<br><br>
+Then once again, select "Add a non-networked printer". Scroll all the way down to the bottom and select "BVH Printers" and "Ender 3 Pro".
+<br><br>
+<img width="774" alt="Screen Shot 2024-02-06 at 12 56 53 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/d8089ee5-ca40-47c9-8c83-5e5174878b0a">
+<br><br>
+Then press "Add", then skip the next menu by pressing "Next", which will bring back you back to a screen with all the printers. Now, with the printer you temporarily added at the start, press the menu icon, then "Remove".
+<br><br>
+<img width="774" alt="Screen Shot 2024-02-06 at 2 56 54 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/8bc74375-0055-43fe-8a5b-f52d26a1b4c4">
+<br><br>
+Your printer menu should now have two Ender 3 Pros. Select Ender 3 Pro #2, and press "Connect Moonraker"
+<br><br>
+<img width="781" alt="Screen Shot 2024-02-06 at 3 07 53 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/271166ff-0f18-4b6d-b4ee-7a8a6061eb8a">
+<br><br>
+This will pull up another Menu. This will be a tad bid different than the last. In the "Address(URL)", type in "http://192.168.4.1:7126/" (We added the printer with the port 7125 last time, now we are going to add another printer with 7126).
+<br><br>
+<img width="778" alt="Screenshot 2024-02-28 at 11 26 52 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/39e426ca-522f-4eb4-b2b1-3e363b697ae3">
+<br><br>
+Select the "Upload" tab at the top of the menu, and in tab, select "UFP with Thumbnail". You can press "Create" which will bring you back to the previous screen.
+<br><br>
+<img width="777" alt="Screen Shot 2024-02-06 at 3 14 43 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/250e5047-20ca-43aa-b4c1-e4c841f5874a">
+<br><br>
+
 Now, lets import the material and profile. Download <a href="https://github.com/EAMalyshev/BVHS-Cura/blob/main/Cura/BVHS-Speed.xml.fdm_material">BVHS-Speed.xml.fdm_material</a>. Go to the "Materials" tab on the side.
 <br><br>
 <img width="778" alt="Screen Shot 2024-02-06 at 3 34 23 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/8b68496c-1217-4018-8c3e-04ab05d83edf">
