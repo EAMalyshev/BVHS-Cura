@@ -141,13 +141,11 @@ Then once again, select "Add a non-networked printer". Scroll all the way down t
 <br><br>
 <img width="774" alt="Screen Shot 2024-02-06 at 12 56 53 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/d8089ee5-ca40-47c9-8c83-5e5174878b0a">
 <br><br>
-Then press "Add", then skip the next menu by pressing "Next", which will bring back you back to a screen with all the printers. Now, with the printer you temporarily added at the start, press the menu icon, then "Remove".
-<br><br>
-<img width="774" alt="Screen Shot 2024-02-06 at 2 56 54 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/8bc74375-0055-43fe-8a5b-f52d26a1b4c4">
+Press "Add", then skip the next menu by pressing "Next", which will bring back you back to a screen with all the printers.
 <br><br>
 Your printer menu should now have two Ender 3 Pros. Select Ender 3 Pro #2, and press "Connect Moonraker"
 <br><br>
-<img width="781" alt="Screen Shot 2024-02-06 at 3 07 53 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/271166ff-0f18-4b6d-b4ee-7a8a6061eb8a">
+<img width="776" alt="Screenshot 2024-02-28 at 11 29 08 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/93aaa0d5-1421-4d75-9986-663ab9058bef">
 <br><br>
 This will pull up another Menu. This will be a tad bid different than the last. In the "Address(URL)", type in "http://192.168.4.1:7126/" (We added the printer with the port 7125 last time, now we are going to add another printer with 7126).
 <br><br>
