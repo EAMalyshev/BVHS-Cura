@@ -103,7 +103,7 @@ Place the file you just downloaded into the "definitions" folder.
 <br><br>
 <img width="487" alt="Screen Shot 2024-02-06 at 12 37 47 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/b1a0857c-970d-456d-978d-95034a9adbe7">
 <br><br>
-After you place the file in the definitions folder, you can close this folder out and once again load Cura
+After you place the file in the definitions folder, you can close this folder out and once again load Cura (Sometimes you will need to quit cura again for it to finally show up)
 <br><br>
 <img width="505" alt="Screen Shot 2024-02-06 at 12 50 07 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/64470c1a-7bfb-4811-89d6-422df24cb9da">
 <br><br>
