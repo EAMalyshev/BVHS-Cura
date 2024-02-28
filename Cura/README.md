@@ -133,7 +133,7 @@ Select the "Upload" tab at the top of the menu, and in tab, select "UFP with Thu
 <img width="777" alt="Screen Shot 2024-02-06 at 3 14 43 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/250e5047-20ca-43aa-b4c1-e4c841f5874a">
 <br><br>
 
-Lets now add the second printer by pressing "Settings", "Printer", selecting "Add Printer..." and press "Non Ultimaker printer".
+Lets now add the second printer by pressing "Add New" and press "Non Ultimaker printer".
 <br><br>
 <img width="776" alt="Screen Shot 2024-02-06 at 12 54 17 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/57d15595-6157-47bb-ae9d-db75795b209f">
 <br><br>
@@ -154,6 +154,10 @@ This will pull up another Menu. This will be a tad bid different than the last. 
 Select the "Upload" tab at the top of the menu, and in tab, select "UFP with Thumbnail". You can press "Create" which will bring you back to the previous screen.
 <br><br>
 <img width="777" alt="Screen Shot 2024-02-06 at 3 14 43 PM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/250e5047-20ca-43aa-b4c1-e4c841f5874a">
+<br><br>
+You can now change which printer you want to print with using the menu on the top left.
+<br><br>
+<img width="1440" alt="Screenshot 2024-02-28 at 11 32 30 AM" src="https://github.com/EAMalyshev/BVHS-Cura/assets/155656835/d43757d2-bca6-4c90-b2a3-d7c6f9d5b1c7">
 <br><br>
 
 Now, lets import the material and profile. Download <a href="https://github.com/EAMalyshev/BVHS-Cura/blob/main/Cura/BVHS-Speed.xml.fdm_material">BVHS-Speed.xml.fdm_material</a>. Go to the "Materials" tab on the side.
